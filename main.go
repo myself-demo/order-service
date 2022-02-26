@@ -6,18 +6,9 @@ import (
 	"google.golang.org/grpc"
 	"log"
 	"net"
-	"sync"
 )
 
 func main() {
-	var wg sync.WaitGroup
-	wg.Add(2)
-	startGrpcService(&wg)
-	wg.Wait()
-}
-
-func startGrpcService(wg *sync.WaitGroup) {
-	defer wg.Done()
 	lis, err := net.Listen("tcp", "0.0.0.0:9000")
 	if err != nil {
 		log.Fatalln(err)
