@@ -5,7 +5,7 @@ go 1.17
 require (
 	github.com/golang/protobuf v1.5.2 // indirect
 	github.com/google/uuid v1.3.0 // indirect
-	github.com/myself-demo/order-service-api v0.0.0-20220225171213-22b22cad3ab9 // indirect
+	github.com/myself-demo/order-service-api v0.0.0-20220226052526-4958266fd7de // indirect
 	golang.org/x/net v0.0.0-20220225143145-3bcbab3f74ef // indirect
 	golang.org/x/sys v0.0.0-20220224120231-95c6836cb0e7 // indirect
 	golang.org/x/text v0.3.7 // indirect

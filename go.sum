@@ -47,6 +47,12 @@ github.com/google/uuid v1.3.0/go.mod h1:TIyPZe4MgqvfeYDBFedMoGGpEw/LqOeaOT+nhxU+
 github.com/grpc-ecosystem/grpc-gateway v1.16.0/go.mod h1:BDjrQk3hbvj6Nolgz8mAMFbcEtjT1g+wF4CSlocrBnw=
 github.com/myself-demo/order-service-api v0.0.0-20220225171213-22b22cad3ab9 h1:TqWFg4exD9KrAKAj1hWeCHJu5PERLnP8zDQkXUaWtO4=
 github.com/myself-demo/order-service-api v0.0.0-20220225171213-22b22cad3ab9/go.mod h1:Z4dmAYwZBy7K7vqfgNdthWsH3pPZclEMTfvB7J0zAeo=
+github.com/myself-demo/order-service-api v0.0.0-20220226051348-d3372b418927 h1:78lIPyBZhbVsBc9NOMnV94Ave3xV0SIJYBhOskr6a4k=
+github.com/myself-demo/order-service-api v0.0.0-20220226051348-d3372b418927/go.mod h1:Z4dmAYwZBy7K7vqfgNdthWsH3pPZclEMTfvB7J0zAeo=
+github.com/myself-demo/order-service-api v0.0.0-20220226052042-1965fe728a45 h1:1HJnrieG9/+XPrLB+9iHFTs5gHavgmW+nd/yY5bcyKU=
+github.com/myself-demo/order-service-api v0.0.0-20220226052042-1965fe728a45/go.mod h1:Z4dmAYwZBy7K7vqfgNdthWsH3pPZclEMTfvB7J0zAeo=
+github.com/myself-demo/order-service-api v0.0.0-20220226052526-4958266fd7de h1:SenG1x8/6hSB2A1SYmPgOe3vMlg6HWzraFIix5ed5PM=
+github.com/myself-demo/order-service-api v0.0.0-20220226052526-4958266fd7de/go.mod h1:Z4dmAYwZBy7K7vqfgNdthWsH3pPZclEMTfvB7J0zAeo=
 github.com/pmezard/go-difflib v1.0.0/go.mod h1:iKH77koFhYxTK1pcRnkKkqfTogsbg7gZNVY4sRDYZ/4=
 github.com/prometheus/client_model v0.0.0-20190812154241-14fe0d1b01d4/go.mod h1:xMI15A0UPsDsEKsMN9yxemIoYk6Tm2C1GtYGdfGttqA=
 github.com/rogpeppe/fastuuid v1.2.0/go.mod h1:jVj6XXZzXRy/MSR5jhDC/2q6DgLz+nrA6LYCDYWNEvQ=
